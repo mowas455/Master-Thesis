@@ -1,5 +1,6 @@
-# Master-Thesis
+# A study of forecasts in Financial Time Series using Machine Learning method
 
+### Abstract
 Forecasting financial time series is one of the most challenging problems in economics
 and business. Markets are highly complex due to non-linear factors in data and uncertainty.
 It moves up and down without any pattern. Based on historical univariate close prices
